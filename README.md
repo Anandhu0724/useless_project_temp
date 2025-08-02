@@ -1,39 +1,36 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
-
+# Yaan Sense
 
 ## Basic Details
 ### Team Name: [Name]
-
+Astra
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Anandhu krishnan (MBC)
+- Member 2: Devadarsh R
 
 ### Project Description
-[2-3 lines about what your project does]
+The project : yawn detector is a wonderefull app created . It detects people who are going to yawn and also count number of yawns.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+It help teachers to motice students sleepinj
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+By prompt usage and designing I creat.d a app for using this work/
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+v0 vercel
+gemini pro
+lovable ai
+bolt ai
+discord
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+None 
 
 ### Implementation
 For Software:
@@ -47,18 +44,14 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+ <img width="1888" height="960" alt="Screenshot 2025-08-02 043620" src="https://github.com/user-attachments/assets/b79cb606-222c-46ec-a75f-a9fd94598b76" />
+photo of the work page.
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+<img width="1888" height="960" alt="Screenshot 2025-08-02 043620" src="https://github.com/user-attachments/assets/55449bc8-0b58-4277-b42a-00451e55392c" />
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
+picture that shows processing tab.
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+<img width="1888" height="960" alt="Screenshot 2025-08-02 043620" src="https://github.com/user-attachments/assets/20ef0e15-7d70-494e-a951-54de1067d862" />
 
 For Hardware:
 
@@ -81,16 +74,13 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
+"C:\Users\godwi\Videos\Captures\v0 - Google Chrome 2025-08-02 04-33-04.mp4"
 # Additional Demos
-[Add any extra demo materials/links]
+https://tirednotyet.netlify.app/
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+Anandhu Krishnan - Prompting,Managing.
+Devadarsh R - Error correction, Content Creator.
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
